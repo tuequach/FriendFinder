@@ -14,7 +14,7 @@ var friends = [
         "scores":[1, 1, 5, 3, 3, 5, 1, 2, 3, 4]
     },  {
         "name":"Lida",
-        "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jp",
+        "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
         "scores":[3, 1, 3, 5, 2, 3, 2, 2, 5, 5]
     },  {
         "name":"Uraraka",
