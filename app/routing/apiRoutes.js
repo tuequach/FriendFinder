@@ -36,9 +36,7 @@ module.exports = function(app) {
         //adding user to friend array
         friends.push(user);
 
-    })
-
-
-
-
-}
+        //making sure the json is sent back to to best friend match
+        res.json(friends[bestFriendIndex]);
+    });
+};
