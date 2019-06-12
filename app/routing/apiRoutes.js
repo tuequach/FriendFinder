@@ -2,7 +2,7 @@ var friends = require ('../data/friends');
 
 module.exports = function(app) {
     //returning friend list from friends.js as a json. 
-    app.get('/api/friends', function(req, rest){
+    app.get('/api/friends', function(req, res){
         res.json(friends);
     });
 
